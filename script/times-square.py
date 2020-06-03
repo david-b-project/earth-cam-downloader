@@ -6,16 +6,16 @@ from datetime import datetime
 from earth_cam_downloader import EarthCamDownloader
 
 # time to start downloading archived footage from
-START = datetime(2019, 7, 10, 0, 0, 0)
+START = datetime(2020, 6, 2, 0, 0, 0)
 
 # time to end downloading archived footage from
-END = datetime(2019, 7, 10, 0, 0, 0)
+END = datetime(2020, 6, 3, 2, 0, 0)
 
 # camera names and ids to download
 CAMERAS = {
-    # "street-cam": "9974",
-    # "times-square-4k": "hdtimes10",
-    # "crossroads": "15559",
+    "street-cam": "9974",
+    "times-square-4k": "hdtimes10",
+    "crossroads": "15559",
     "south-view": "4017timessquareHD1",
 }
 
