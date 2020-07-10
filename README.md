@@ -20,6 +20,8 @@ In order to find the camera id's, open up a network tab in chrome and monitor th
 https://video2archives.earthcam.com/archives/_definst_/MP4:network/9974/2019/07/16/0500.mp4/playlist.m3u8 to output/street-cam-2019-07-16-0500.mp4
 ```
 
+https://video2archives.earthcam.com/archives/_definst_/MP4:network/6975/2020/07/09/1701.mp4/playlist.m3u8
+
 The format of this url is:
 ```
 https://video2archives.earthcam.com/archives/_definst_/MP4:network/{camera_id}/{year}/{month}/{day}/{hour}.mp4/playlist.m3u8
